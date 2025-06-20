@@ -7,6 +7,7 @@
 🌱 I’m currently learning statistics and it also pursuing anther course for Data Analytics/Data Engineering
 
 🚀 Upcoming & In-Progress Projects
+-💜Akilicare – A mental healthcare app built with accessibility in mind, supporting users (including those with disabilities) through inclusive UI, offline options, and community care. 
 - 📊 Netflix EDA – Exploring trends in popular titles over time (🚧 In Progress)
 - 🧹 Data Cleaning Challenge– Cleaning messy data with pandas & R (starting June 25)
 - 🧠 Customer Churn Prediction – Building a predictive ML model (drafting now)
@@ -24,6 +25,9 @@
 - 🧪 WiDS Datathon 2025 participant
 - 📚 Learning Bash, JavaScript & Python for cross-skill development
 - 🌍 Strong believer in tech for social impact
+  
+🌱 Fun Things I Love
+- Tech with heart. Journaling. Uplifting other women in tech. Late-night data visualizations. Learning hard things slowly but surely
 
 📫 Connect with Me
 Email: underratedayanna@gmail.com  
